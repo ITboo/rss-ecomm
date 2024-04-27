@@ -1,0 +1,17 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(52, 52, 52);
+}
+
+.nav__menu {
+    display: flex;
+    gap: 32px;
+}
+
+.phone {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}

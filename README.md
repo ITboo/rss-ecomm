@@ -1,12 +1,15 @@
 # Ecommerce project
 
 ## About
+
 TBD
 
 ## Features
+
 TBD
 
 ## Technology stack
+
 TBD
 
 ## Getting started
