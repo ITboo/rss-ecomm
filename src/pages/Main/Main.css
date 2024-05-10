@@ -1,0 +1,12 @@
+section{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}

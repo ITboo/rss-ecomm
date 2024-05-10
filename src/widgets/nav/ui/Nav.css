@@ -1,10 +1,12 @@
 .nav {
+
+    padding: 20px 0;
+}
+.nav__container{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(52, 52, 52);
 }
-
 .nav__menu {
     display: flex;
     gap: 32px;
