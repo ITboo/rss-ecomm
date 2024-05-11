@@ -1,0 +1,7 @@
+.about__testimonials{
+    display: flex;
+    flex-direction: column;
+}
+.testimonials__container{
+    display: flex;
+}

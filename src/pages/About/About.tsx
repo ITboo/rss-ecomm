@@ -1,4 +1,8 @@
 import Button from '../../shared/ui/button/Button';
+import OurTeam from '../../widgets/our_team/OurTeam';
+import Partners from '../../widgets/partners/Partners';
+import Testimonials from '../../widgets/testimonials/Testimonials';
+import './About.css';
 
 const About = () => {
   return (
@@ -54,6 +58,9 @@ const About = () => {
         </div>
         <img src="/public/Image (1).png" alt="" />
       </section>
+      <OurTeam />
+      <Testimonials />
+      <Partners />
     </div>
   );
 };
