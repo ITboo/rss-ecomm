@@ -1,9 +1,10 @@
+import Title from '../../shared/ui/title/Title';
 import './Testimonials.css';
 
 const Testimonials = () => {
   return (
     <section className="about__testimonials">
-      <h2>Client Testimonials</h2>
+      <Title>Client Testimonials</Title>
       <div className="testimonials__container">
         <div className="testimonials__wrapper">
           <svg

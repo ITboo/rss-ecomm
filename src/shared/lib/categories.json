@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Fresh Fruits",
+        "img":"./public/categories/fresh-fruits.png"
+    },
+    {
+        "name":"Fresh Vegetables",
+        "img":"./public/categories/fresh-vegetables.png"
+    },
+    {
+        "name":"Meat&Fish",
+        "img":"./public/categories/meat-fish.png"
+    },
+    {
+        "name":"Snacks",
+        "img":"./public/categories/snacks.png"
+    },
+    {
+        "name":"Beverages",
+        "img":"./public/categories/beverages.png"
+    },
+    {
+        "name":"Beauty & Health",
+        "img":"./public/categories/beauty-health.png"
+    },
+    {
+        "name":"Bread & Bakery",
+        "img":"./public/categories/bread.png"
+    },
+    {
+        "name":"Baking Needs",
+        "img":"./public/categories/baking-needs.png"
+    },
+    {
+        "name":"Cooking",
+        "img":"./public/categories/cooking.png"
+    },
+    {
+        "name":"Diabetic Food",
+        "img":"./public/categories/diabetic.png"
+    },
+    {
+        "name":"Dish Detergents",
+        "img":"./public/categories/detergents.png"
+    },
+    {
+        "name":"Oil",
+        "img":"./public/categories/oil.png"
+    }
+]

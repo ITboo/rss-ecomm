@@ -10,3 +10,13 @@ li{
     gap: 5px;
     align-items: center;
 }
+.categories{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.categories__card{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
