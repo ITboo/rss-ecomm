@@ -1,12 +1,12 @@
-.about__team{
-    display: flex;
-    flex-direction: column;
+.about__team {
+  display: flex;
+  flex-direction: column;
 }
-.team__container{
-    display: flex;
-    justify-content: space-between;
+.team__container {
+  display: flex;
+  justify-content: space-between;
 }
-.team__card{
-    display: flex;
-    flex-direction: column;
+.team__card {
+  display: flex;
+  flex-direction: column;
 }

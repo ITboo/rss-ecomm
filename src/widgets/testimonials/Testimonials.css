@@ -1,7 +1,7 @@
-.about__testimonials{
-    display: flex;
-    flex-direction: column;
+.about__testimonials {
+  display: flex;
+  flex-direction: column;
 }
-.testimonials__container{
-    display: flex;
+.testimonials__container {
+  display: flex;
 }

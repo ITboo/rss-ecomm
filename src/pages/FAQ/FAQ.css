@@ -1,0 +1,30 @@
+.accordion__item{
+    width: 650px;    
+    margin-bottom: 12px;
+}
+.accordion__title{
+    margin-bottom: 32px;
+}
+
+.question{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    border-radius: 6px;
+    background-color: lightgrey;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+.icon{
+    padding: 7px 15px;
+    border-radius: 180px;
+    background-color: #fff;
+}
+.faq__content{
+    display: flex;
+    justify-content: space-between;
+    gap: 72px;
+}

@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import './Footer.css';
 const Footer = () => {
   return (
@@ -13,13 +14,14 @@ const Footer = () => {
         </a>
         <span>or</span>
         <a href="mailto:Proxy@gmail.com" className="phone">
-        Proxy@gmail.com
+          Proxy@gmail.com
         </a>
         <div className="copyright">
-        Ecobazar eCommerce © 2021. All Rights Reserved
-        <div className="payment"></div>
+          Ecobazar eCommerce © 2021. All Rights Reserved
+          <div className="payment"></div>
         </div>
       </div>
+      <Link to="/faq">Faqs</Link>
     </footer>
   );
 };

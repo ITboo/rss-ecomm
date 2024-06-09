@@ -1,24 +1,24 @@
 .header__top {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 12px 0;
-    background-color: rgb(52, 52, 52);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 0;
+  background-color: rgb(52, 52, 52);
 }
 
 .header__location {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    color: gray;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: gray;
 }
 
 .header__main {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .search {
-    display: flex;
+  display: flex;
 }

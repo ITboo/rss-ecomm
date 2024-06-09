@@ -1,22 +1,22 @@
-section{
-    display: flex;
-    justify-content: space-between;
+section {
+  display: flex;
+  justify-content: space-between;
 }
-ul{
-    list-style: none;
+ul {
+  list-style: none;
 }
-li{
-    display: flex;
-    gap: 5px;
-    align-items: center;
+li {
+  display: flex;
+  gap: 5px;
+  align-items: center;
 }
-.categories{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+.categories {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
-.categories__card{
-    display: flex;
-    flex-direction: column;
-    text-align: center;
+.categories__card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
 }

@@ -1,17 +1,20 @@
 [
-    {
-        "img":"./public/instagram/post-1.jpg"
-    },
-    {
-        "img":"./public/instagram/post-2.jpg"
-    },
-    {
-        "img":"./public/instagram/post-3.jpg"
-    },
-    {
-        "img":"./public/instagram/post-4.jpg"
-    },
-    {
-        "img":"./public/instagram/post-5.jpg"
-    }
+  {
+    "img": "./public/instagram/post-1.jpg"
+  },
+  {
+    "img": "./public/instagram/post-2.jpg"
+  },
+  {
+    "img": "./public/instagram/post-3.jpg"
+  },
+  {
+    "img": "./public/instagram/post-4.jpg"
+  },
+  {
+    "img": "./public/instagram/post-5.jpg"
+  },
+  {
+    "img": "./public/instagram/post-6.png"
+  }
 ]
